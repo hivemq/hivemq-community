@@ -1,2 +1,2 @@
 # hivemq-community
-Files related to the HiveMQ Community
+Additional Documents shared by multiple HiveMQ Community projects
