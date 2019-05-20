@@ -17,7 +17,7 @@ Please fill out our Contributor License Agreement (CLA), otherwise we cannot acc
 All files must contain the license header from the link:HEADER[header file].
 
 == Contributor License Agreement
-If you wish to contribute to the HiveMQ CE, please download, fill out and sign the https://www.hivemq.com/downloads/Contributor_License_Agreement.pdf[Contributor License Agreement]. Send the signed agreement  to (contributing@hivemq.com) with the subject `CLA for Project: <Project Name>`. Please read this document carefully before signing it and keep a copy for your own records. Once we've received your signed CLA, you will be added to the list of contributors and our HiveMQ Development Team will review your contributions.
+If you wish to contribute to one of our Open Source projects, please download, fill out and sign the https://www.hivemq.com/downloads/Contributor_License_Agreement.pdf[Contributor License Agreement]. Send the signed agreement  to (contributing@hivemq.com) with the subject `CLA for Project: <Project Name>`. Please read this document carefully before signing it and keep a copy for your own records. Once we've received your signed CLA, you will be added to the list of contributors and our HiveMQ Development Team will review your contributions.
 
 In case the rights to all intellectual property created by you are maintained by your employer, including your work on HiveMQ Open Source Projects, you must ensure you have retained all rights to grant the license, or that your employer has agreed to a separate https://www.hivemq.com/downloads/Corporate_Contributor_License_Agreement.pdf[Corporate CLA].
 
@@ -28,7 +28,7 @@ In case the rights to all intellectual property created by you are maintained by
 
 Please always open an issue in the issue tracker before sending a pull request and wait until someone from the HiveMQ Development Team approves it, before you start working on it. This prevents you from working on issues that we will ultimately not accept. When you start working on an approved issue, please make it known in the comments that you are going to work on it, so a simultaneous contribution by someone else can be avoided.
 
-After you committed, your contribution will be reviewed by the HiveMQ Development Team. We reserve the right to release only reviewed and approved implementations.
+Upon commitment, your contribution will be reviewed by the HiveMQ Development Team. We reserve the right to release only reviewed and approved implementations.
 
 ==== Security Issues
 Please do not report any security issue to the public issue tracker. Please send security issues to security@hivemq.com.
