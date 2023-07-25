@@ -17,7 +17,7 @@ Please fill out our Contributor License Agreement (CLA), otherwise we cannot acc
 All files must contain the license header from the link:HEADER[header file].
 
 == Contributor License Agreement
-If you wish to contribute to one of our Open Source projects, please download, fill out and sign the https://www.hivemq.com/downloads/Contributor_License_Agreement.pdf[Contributor License Agreement]. Send the signed agreement  to (contributing@hivemq.com) with the subject `CLA for Project: <Project Name>`. Please read this document carefully before signing it and keep a copy for your own records. Once we've received your signed CLA, you will be added to the list of contributors and our HiveMQ Development Team will review your contributions.
+If you wish to contribute to one of our Open Source projects, please fill out and sign the https://na4.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=84cc1040-8db3-4598-b7fa-d5618b7eaa59&env=na4&acct=5c4e7f8f-440b-424c-ada4-aef44fd4456b&v=2[Contributor License Agreement]. Please read this document carefully before signing it and keep a copy for your own records. Once we've received your signed CLA, you will be added to the list of contributors and our HiveMQ Development Team will review your contributions.
 
 In case the rights to all intellectual property created by you are maintained by your employer, including your work on HiveMQ Open Source Projects, you must ensure you have retained all rights to grant the license, or that your employer has agreed to a separate https://www.hivemq.com/downloads/Corporate_Contributor_License_Agreement.pdf[Corporate CLA].
 
