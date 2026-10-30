@@ -6,7 +6,7 @@ Anyone is welcome to participate and contribute to the HiveMQ open source commun
 
 We ask that contributions are focused on improving the current implementation and project scope.
 
-We will not accept contributions that would add features that expand the scope of the project. It is HiveMQ’s intention to offer commercial products that will add features suited for enterprise deployments of HiveMQ. If you would like to suggest a new feature, please contact the project team (support@hivemq.com) to discuss if it fits within the project scope. If you wish to contribute, we will preferibly accept Bug Fixes, Typos, Documentation, JavaDoc and Logging.
+We will not accept contributions that would add features that expand the scope of the project. It is HiveMQ’s intention to offer commercial products that will add features suited for enterprise deployments of HiveMQ. If you would like to suggest a new feature, please open an issue in the respective project's repository to discuss if it fits within the project scope. If you wish to contribute, we will preferably accept Bug Fixes, Typos, Documentation, JavaDoc and Logging.
 
 == Licensing
 
@@ -37,7 +37,7 @@ Please do not report any security issue to the public issue tracker. Please send
 
 Please refer all your questions about the HiveMQ Open Source Projects to the https://community.hivemq.com[HiveMQ Community Forum].
 
-Issues consisting of questions or suggestions will be closed immediately.
+Issues consisting of questions will be closed immediately.
 
 === Code Style Guidelines
 Only code following _good_ Java practices, like using the appropriate keywords and visibility, will be accepted.
